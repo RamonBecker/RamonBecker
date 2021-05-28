@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I like ☕ and readings 📚, but I really like to develop 💻. I hope I can contribute to you and our community :call_me_hand:. 
 
 - 👨‍🎓 I am currently majoring in Systems Analysis and Development at the Federal Institute of Santa Catarina (IFSC). 
-- 💻 I am currently learning about development with the Django Framework.
+- 💻 I am currently learning about development with the Django Framework and Java.
 - 👨‍💻 I want to learn more about JavaScritp, React, Angular and also frameworks for Java like: Spring and Hibernat (Although I have already developed some projects with this framework).
 
 
