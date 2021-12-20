@@ -28,7 +28,6 @@ I like ☕ and readings 📚, but I really like to develop 💻. I hope I can co
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonBecker&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=RamonBecker&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 <div>
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="windows" height="30" width="75" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
